@@ -184,6 +184,7 @@ from .agilent8596EM import agilent8596EM
 
 # Digital Multimeters
 from .agilent34401A import agilent34401A
+from .agilent34405A import agilent34405A
 from .agilent34410A import agilent34410A
 from .agilent34411A import agilent34411A
 from .agilent34461A import agilent34461A
